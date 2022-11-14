@@ -2,10 +2,10 @@
 Solution to Visa Hackaton on Campus Party Brazil 2022
 
 Team:
-Guilherme Ribeiro
-Lourenço Dias
-Lucas Barbosa
-Thiago Gonçalves
+Guilherme Ribeiro,
+Lourenço Dias,
+Lucas Barbosa,
+Thiago Gonçalves,
 Vinnícius Cedraz
 
 Nocode solution available at:
