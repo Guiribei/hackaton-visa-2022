@@ -11,6 +11,3 @@ Vinnícius Cedraz
 #### Nocode solution available at:
 
 https://visajante.bubbleapps.io/version-test/
-
-Login Bubble: guilhermefelipe.r@gmail.com
-Password: icaCDJHu7mnN26
