@@ -13,4 +13,4 @@ Vinnícius Cedraz
 https://visajante.bubbleapps.io/version-test/
 
 Login Bubble: guilhermefelipe.r@gmail.com
-Password: icaCDJ4Hu7rnN26
+Password: icaCDJHu7mnN26
